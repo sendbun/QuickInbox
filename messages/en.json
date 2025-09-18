@@ -1,0 +1,181 @@
+{
+  "app": {
+    "title": "TempMail"
+  },
+  "hero": {
+    "heading": "Temporary Email Service"
+  },
+  "cta": {
+    "start": "Start Using Free Temporary Email"
+  },
+  "seo": {
+    "title": "Temporary Email Service",
+    "whatIs": "What is Temporary Email?",
+    "whatIsDescription1": "Temporary email is a service that allows you to create disposable email addresses instantly. These email addresses can receive messages just like regular email addresses, but they are temporary and will be automatically deleted after a certain period.",
+    "whatIsDescription2": "This service is perfect for situations where you need an email address for verification purposes but don't want to use your personal email address or create a permanent account.",
+    "howToUse": "How to Use",
+    "step1": "Generate a temporary email address",
+    "step1Desc": "Click the \"New Random Address\" button above",
+    "step2": "Use the email address",
+    "step2Desc": "Copy and use it on any website or service",
+    "step3": "Receive messages",
+    "step3Desc": "Messages will appear in your inbox automatically",
+    "benefits": "Benefits of Using Temporary Email",
+    "privacy": "Privacy Protection",
+    "privacyDesc": "Keep your real email address private and avoid spam",
+    "quick": "Quick & Easy",
+    "quickDesc": "No registration required, instant email generation",
+    "safe": "Safe & Secure",
+    "safeDesc": "Temporary emails are automatically deleted after use",
+    "perfectFor": "Perfect for Testing and Verification",
+    "perfectForDesc": "Use our temporary email service for website testing, app verification, online surveys, or any situation where you need a disposable email address. No personal information required, completely free to use.",
+    "guideTitle": "Free Disposable Email Service - Complete Guide",
+    "disposableTitle": "What is a Disposable Email Address?",
+    "disposableDesc": "A disposable email address, also known as a temporary email, throwaway email, or fake email address, is a service that provides you with a temporary email address that can receive messages. These email addresses are designed to be used for a short period and then discarded, making them perfect for protecting your privacy and avoiding spam.",
+    "whyUse": "Why Use a Temporary Email Service?",
+    "whyUseDesc": "There are many reasons why people use temporary email services. Here are the most common use cases:",
+    "useCase1": "Website Testing: Developers and testers use temporary emails to test signup forms, email verification systems, and user registration processes without cluttering their personal inbox.",
+    "useCase2": "App Verification: Mobile apps often require email verification. Temporary emails allow you to complete the verification process without using your real email address.",
+    "useCase3": "Online Surveys: Many online surveys require an email address. Use a temporary email to participate without revealing your personal information.",
+    "useCase4": "Privacy Protection: Keep your real email address private and avoid receiving unwanted marketing emails, newsletters, or spam.",
+    "useCase5": "One-time Registrations: For services you only need to use once, temporary emails prevent your personal inbox from being flooded with follow-up emails.",
+    "howWorks": "How Our Temporary Email Service Works",
+    "howWorksDesc": "Our free temporary email service is designed to be simple and user-friendly. Here's how it works:",
+    "workStep1": "Instant Generation: Click the \"New Random Address\" button to instantly create a temporary email address. Our system generates human-like usernames combined with available domains.",
+    "workStep2": "Copy and Use: Copy your temporary email address to the clipboard with one click. Use it on any website, app, or service that requires email verification.",
+    "workStep3": "Real-time Reception: Messages sent to your temporary email address appear in your inbox in real-time. You can view the full content of each email, including HTML formatting.",
+    "workStep4": "Automatic Cleanup: Temporary email addresses are automatically deleted after a certain period, ensuring your privacy and keeping the service clean.",
+    "features": "Features of Our Free Temporary Email Service",
+    "feature1": "No Registration Required",
+    "feature1Desc": "Start using our service immediately without creating an account or providing personal information.",
+    "feature2": "Multiple Domain Options",
+    "feature2Desc": "Choose from various email domains to create your temporary email address.",
+    "feature3": "Real-time Email Reception",
+    "feature3Desc": "Receive emails instantly with live notifications and automatic inbox updates.",
+    "feature4": "Secure and Private",
+    "feature4Desc": "Your temporary emails are secure and automatically deleted to protect your privacy.",
+    "feature5": "Custom Email Addresses",
+    "feature5Desc": "Create custom usernames for your temporary email addresses if needed.",
+    "feature6": "Mobile Friendly",
+    "feature6Desc": "Our service works perfectly on all devices including smartphones and tablets.",
+    "commonUseCases": "Common Use Cases for Temporary Email Addresses",
+    "commonUseCasesDesc": "Temporary email addresses are used in various scenarios. Here are some of the most common applications:",
+    "devUseCase": "Software Development",
+    "devUseCaseDesc": "Test user registration flows, email verification systems, and automated email features without affecting your personal email account.",
+    "qaUseCase": "Quality Assurance",
+    "qaUseCaseDesc": "QA teams use temporary emails to test applications across different email scenarios and ensure proper email handling.",
+    "shoppingUseCase": "Online Shopping",
+    "shoppingUseCaseDesc": "Use temporary emails for one-time purchases to avoid marketing emails and promotional offers from online stores.",
+    "socialUseCase": "Social Media",
+    "socialUseCaseDesc": "Create social media accounts for testing purposes or to maintain privacy when using certain platforms.",
+    "security": "Security and Privacy Considerations",
+    "securityDesc": "While temporary email services provide privacy benefits, it's important to understand their limitations:",
+    "security1": "Temporary Nature: These email addresses are designed to be temporary and will be automatically deleted after a period of inactivity.",
+    "security2": "Not for Important Communications: Don't use temporary emails for important communications, account recovery, or financial transactions.",
+    "security3": "Limited Storage: Temporary email services typically have limited storage and may not retain emails for extended periods.",
+    "startToday": "Start Using Our Free Temporary Email Service Today",
+    "startTodayDesc1": "Our temporary email service is completely free to use and requires no registration. Generate your first disposable email address now and experience the convenience of temporary email addresses for testing, verification, and privacy protection.",
+    "startTodayDesc2": "Whether you're a developer testing applications, a user protecting your privacy, or someone who needs a quick email address for verification, our service provides the perfect solution. Try it now and see how easy it is to use temporary email addresses!"
+  },
+  "footer": {
+    "description": "Secure, anonymous temporary email addresses for your privacy and protection.",
+    "company": {
+      "title": "Company",
+      "about": "About",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "contact": "Contact"
+    },
+    "language": {
+      "title": "Language",
+      "selectLanguage": "Select Language"
+    },
+    "copyright": "© {year} TempMail. All rights reserved."
+  },
+  "inbox": {
+    "toastNewEmailTitle": "New Email Received",
+    "toastNewEmailDesc": "{subject} from {from}",
+    "unknownSender": "Unknown sender",
+    "contentNone": "No content",
+    "toastNewEmailsAvailableTitle": "New Emails Available",
+    "toastNewEmailsAvailableDesc": "New emails have arrived. Go to page 1 to see them.",
+    "toastErrorTitle": "Error",
+    "initError": "Failed to initialize email service. Please try again.",
+    "createAccountError": "Failed to create email account. Please try again.",
+    "inboxRefreshed": "Inbox refreshed",
+    "inboxUpdated": "Your inbox has been updated.",
+    "refreshError": "Failed to refresh inbox. Please try again.",
+    "generateError": "Failed to generate new email address. Please try again.",
+    "copiedTitle": "Copied to clipboard",
+    "copiedDesc": "Email address copied to clipboard.",
+    "addressDeletedTitle": "Email address deleted",
+    "addressDeletedDesc": "Your temporary email address has been deleted and a new one created.",
+    "modalTitle": "Create Custom Email",
+    "modalDesc": "Enter a username and select a domain. You can also provide a password or we'll generate one for you.",
+    "labelUsername": "Username",
+    "labelDomain": "Domain",
+    "labelPassword": "Password",
+    "placeholderUsername": "yourname",
+    "placeholderPassword": "Leave blank to generate",
+    "btnCreateEmail": "Create Email",
+    "title": "Your Temporary Email Address",
+    "desc": "Use this email address to receive messages. It will expire after 10 hours.",
+    "loading": "Loading...",
+    "noEmail": "No email address",
+    "copy": "Copy",
+    "delete": "Delete",
+    "newRandom": "New Random Address",
+    "customEmail": "Custom Email",
+    "ad": "Advertisement Banner",
+    "heading": "Inbox",
+    "newEmailsBadge": "{count} new email{count, plural, one {} other {s}}",
+    "viewNew": "View New",
+    "live": "Live",
+    "connecting": "Connecting...",
+    "paginationSummary": "{total} emails • Page {current} of {totalPages}",
+    "refresh": "Refresh",
+    "updating": "Updating inbox with new emails...",
+    "prev": "Previous",
+    "next": "Next",
+    "emptyTitle": "Your inbox is empty",
+    "emptySubtitle": "Received emails will appear here",
+    "dateJustNow": "Just now",
+    "dateHoursAgo": "{hours} hours ago",
+    "dateYesterday": "Yesterday",
+    "dateUnknown": "Unknown"
+  },
+  "pages": {
+    "about": {
+      "title": "About TempMail",
+      "intro": "TempMail provides secure, anonymous temporary email addresses for testing, verification and privacy.",
+      "sections": [
+        { "heading": "Our Mission", "body": "We help developers, QA teams and privacy‑conscious users work safely without exposing personal inboxes." },
+        { "heading": "How It Works", "body": "Generate a disposable address instantly, receive messages in real time, and discard whenever you are done." }
+      ]
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "Your privacy matters. This policy explains what we collect and why.",
+      "sections": [
+        { "heading": "Data We Store", "body": "We store minimal metadata required to operate the service. Temporary emails are purged after their lifecycle." },
+        { "heading": "Cookies", "body": "We use essential cookies for session security and analytics to improve the product." }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "intro": "By using TempMail you agree to these terms.",
+      "sections": [
+        { "heading": "Acceptable Use", "body": "Do not use the service for spam, fraud, or illegal activity. We may rate-limit or block abusive usage." },
+        { "heading": "Availability", "body": "The service is provided as‑is without warranty. We may change or discontinue features at any time." }
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "intro": "Have a question or feedback? We'd love to hear from you.",
+      "sections": [
+        { "heading": "Email", "body": "Reach us at support@example.com." },
+        { "heading": "GitHub", "body": "Open an issue or feature request on our repository." }
+      ]
+    }
+  }
+}

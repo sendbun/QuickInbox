@@ -1,0 +1,181 @@
+{
+  "app": {
+    "title": "TempMail"
+  },
+  "hero": {
+    "heading": "Servicio de Correo Temporal"
+  },
+  "cta": {
+    "start": "Comenzar a usar Correo Temporal Gratuito"
+  },
+  "seo": {
+    "title": "Servicio de Correo Temporal",
+    "whatIs": "¿Qué es el Correo Temporal?",
+    "whatIsDescription1": "El correo temporal es un servicio que te permite crear direcciones de correo desechables al instante. Estas direcciones de correo pueden recibir mensajes como las direcciones de correo normales, pero son temporales y se eliminarán automáticamente después de un cierto período.",
+    "whatIsDescription2": "Este servicio es perfecto para situaciones donde necesitas una dirección de correo para propósitos de verificación pero no quieres usar tu dirección de correo personal o crear una cuenta permanente.",
+    "howToUse": "Cómo Usar",
+    "step1": "Generar una dirección de correo temporal",
+    "step1Desc": "Haz clic en el botón \"Nueva Dirección Aleatoria\" arriba",
+    "step2": "Usar la dirección de correo",
+    "step2Desc": "Copia y úsala en cualquier sitio web o servicio",
+    "step3": "Recibir mensajes",
+    "step3Desc": "Los mensajes aparecerán automáticamente en tu bandeja de entrada",
+    "benefits": "Beneficios de Usar Correo Temporal",
+    "privacy": "Protección de Privacidad",
+    "privacyDesc": "Mantén tu dirección de correo real privada y evita el spam",
+    "quick": "Rápido y Fácil",
+    "quickDesc": "No se requiere registro, generación instantánea de correo",
+    "safe": "Seguro y Protegido",
+    "safeDesc": "Los correos temporales se eliminan automáticamente después del uso",
+    "perfectFor": "Perfecto para Pruebas y Verificación",
+    "perfectForDesc": "Usa nuestro servicio de correo temporal para pruebas de sitios web, verificación de aplicaciones, encuestas en línea, o cualquier situación donde necesites una dirección de correo desechable. No se requiere información personal, completamente gratis de usar.",
+    "guideTitle": "Servicio Gratuito de Correo Desechable - Guía Completa",
+    "disposableTitle": "¿Qué es una Dirección de Correo Desechable?",
+    "disposableDesc": "Una dirección de correo desechable, también conocida como correo temporal, correo desechable, o dirección de correo falsa, es un servicio que te proporciona una dirección de correo temporal que puede recibir mensajes. Estas direcciones de correo están diseñadas para ser usadas por un corto período y luego descartadas, haciéndolas perfectas para proteger tu privacidad y evitar spam.",
+    "whyUse": "¿Por qué Usar un Servicio de Correo Temporal?",
+    "whyUseDesc": "Hay muchas razones por las que las personas usan servicios de correo temporal. Aquí están los casos de uso más comunes:",
+    "useCase1": "Pruebas de Sitios Web: Los desarrolladores y probadores usan correos temporales para probar formularios de registro, sistemas de verificación de correo, y procesos de registro de usuarios sin saturar su bandeja de entrada personal.",
+    "useCase2": "Verificación de Aplicaciones: Las aplicaciones móviles a menudo requieren verificación de correo. Los correos temporales te permiten completar el proceso de verificación sin usar tu dirección de correo real.",
+    "useCase3": "Encuestas en Línea: Muchas encuestas en línea requieren una dirección de correo. Usa un correo temporal para participar sin revelar tu información personal.",
+    "useCase4": "Protección de Privacidad: Mantén tu dirección de correo real privada y evita recibir correos de marketing no deseados, boletines, o spam.",
+    "useCase5": "Registros de Una Sola Vez: Para servicios que solo necesitas usar una vez, los correos temporales previenen que tu bandeja de entrada personal se inunde con correos de seguimiento.",
+    "howWorks": "Cómo Funciona Nuestro Servicio de Correo Temporal",
+    "howWorksDesc": "Nuestro servicio gratuito de correo temporal está diseñado para ser simple y fácil de usar. Así es como funciona:",
+    "workStep1": "Generación Instantánea: Haz clic en el botón \"Nueva Dirección Aleatoria\" para crear instantáneamente una dirección de correo temporal. Nuestro sistema genera nombres de usuario similares a humanos combinados con dominios disponibles.",
+    "workStep2": "Copiar y Usar: Copia tu dirección de correo temporal al portapapeles con un clic. Úsala en cualquier sitio web, aplicación, o servicio que requiera verificación de correo.",
+    "workStep3": "Recepción en Tiempo Real: Los mensajes enviados a tu dirección de correo temporal aparecen en tu bandeja de entrada en tiempo real. Puedes ver el contenido completo de cada correo, incluyendo formato HTML.",
+    "workStep4": "Limpieza Automática: Las direcciones de correo temporal se eliminan automáticamente después de un cierto período, asegurando tu privacidad y manteniendo el servicio limpio.",
+    "features": "Características de Nuestro Servicio Gratuito de Correo Temporal",
+    "feature1": "No se Requiere Registro",
+    "feature1Desc": "Comienza a usar nuestro servicio inmediatamente sin crear una cuenta o proporcionar información personal.",
+    "feature2": "Múltiples Opciones de Dominio",
+    "feature2Desc": "Elige entre varios dominios de correo para crear tu dirección de correo temporal.",
+    "feature3": "Recepción de Correo en Tiempo Real",
+    "feature3Desc": "Recibe correos instantáneamente con notificaciones en vivo y actualizaciones automáticas de la bandeja de entrada.",
+    "feature4": "Seguro y Privado",
+    "feature4Desc": "Tus correos temporales son seguros y se eliminan automáticamente para proteger tu privacidad.",
+    "feature5": "Direcciones de Correo Personalizadas",
+    "feature5Desc": "Crea nombres de usuario personalizados para tus direcciones de correo temporal si es necesario.",
+    "feature6": "Compatible con Móviles",
+    "feature6Desc": "Nuestro servicio funciona perfectamente en todos los dispositivos incluyendo smartphones y tablets.",
+    "commonUseCases": "Casos de Uso Comunes para Direcciones de Correo Temporal",
+    "commonUseCasesDesc": "Las direcciones de correo temporal se usan en varios escenarios. Aquí están algunas de las aplicaciones más comunes:",
+    "devUseCase": "Desarrollo de Software",
+    "devUseCaseDesc": "Prueba flujos de registro de usuarios, sistemas de verificación de correo, y características de correo automatizado sin afectar tu cuenta de correo personal.",
+    "qaUseCase": "Aseguramiento de Calidad",
+    "qaUseCaseDesc": "Los equipos de QA usan correos temporales para probar aplicaciones en diferentes escenarios de correo y asegurar el manejo adecuado de correos.",
+    "shoppingUseCase": "Compras en Línea",
+    "shoppingUseCaseDesc": "Usa correos temporales para compras de una sola vez para evitar correos de marketing y ofertas promocionales de tiendas en línea.",
+    "socialUseCase": "Redes Sociales",
+    "socialUseCaseDesc": "Crea cuentas de redes sociales para propósitos de prueba o para mantener la privacidad al usar ciertas plataformas.",
+    "security": "Consideraciones de Seguridad y Privacidad",
+    "securityDesc": "Mientras que los servicios de correo temporal proporcionan beneficios de privacidad, es importante entender sus limitaciones:",
+    "security1": "Naturaleza Temporal: Estas direcciones de correo están diseñadas para ser temporales y se eliminarán automáticamente después de un período de inactividad.",
+    "security2": "No para Comunicaciones Importantes: No uses correos temporales para comunicaciones importantes, recuperación de cuentas, o transacciones financieras.",
+    "security3": "Almacenamiento Limitado: Los servicios de correo temporal típicamente tienen almacenamiento limitado y pueden no retener correos por períodos extendidos.",
+    "startToday": "Comienza a Usar Nuestro Servicio Gratuito de Correo Temporal Hoy",
+    "startTodayDesc1": "Nuestro servicio de correo temporal es completamente gratis de usar y no requiere registro. Genera tu primera dirección de correo desechable ahora y experimenta la conveniencia de las direcciones de correo temporal para pruebas, verificación, y protección de privacidad.",
+    "startTodayDesc2": "Ya seas un desarrollador probando aplicaciones, un usuario protegiendo tu privacidad, o alguien que necesita una dirección de correo rápida para verificación, nuestro servicio proporciona la solución perfecta. ¡Pruébalo ahora y ve qué tan fácil es usar direcciones de correo temporal!"
+  },
+  "footer": {
+    "description": "Direcciones de correo temporal seguras y anónimas para tu privacidad y protección.",
+    "company": {
+      "title": "Empresa",
+      "about": "Acerca de",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfService": "Términos de Servicio",
+      "contact": "Contacto"
+    },
+    "language": {
+      "title": "Idioma",
+      "selectLanguage": "Seleccionar Idioma"
+    },
+    "copyright": "© {year} TempMail. Todos los derechos reservados."
+  },
+  "inbox": {
+    "toastNewEmailTitle": "Nuevo correo recibido",
+    "toastNewEmailDesc": "{subject} de {from}",
+    "unknownSender": "Remitente desconocido",
+    "contentNone": "Sin contenido",
+    "toastNewEmailsAvailableTitle": "Nuevos correos disponibles",
+    "toastNewEmailsAvailableDesc": "Han llegado nuevos correos. Ve a la página 1 para verlos.",
+    "toastErrorTitle": "Error",
+    "initError": "Error al iniciar el servicio de correo. Inténtalo de nuevo.",
+    "createAccountError": "Error al crear la cuenta de correo. Inténtalo de nuevo.",
+    "inboxRefreshed": "Bandeja actualizada",
+    "inboxUpdated": "Tu bandeja de entrada ha sido actualizada.",
+    "refreshError": "Error al actualizar la bandeja. Inténtalo de nuevo.",
+    "generateError": "Error al generar una nueva dirección de correo. Inténtalo de nuevo.",
+    "copiedTitle": "Copiado al portapapeles",
+    "copiedDesc": "Dirección de correo copiada al portapapeles.",
+    "addressDeletedTitle": "Dirección eliminada",
+    "addressDeletedDesc": "Tu dirección temporal ha sido eliminada y se ha creado una nueva.",
+    "modalTitle": "Crear correo personalizado",
+    "modalDesc": "Ingresa un nombre de usuario y selecciona un dominio. También puedes proporcionar una contraseña o generaremos una por ti.",
+    "labelUsername": "Usuario",
+    "labelDomain": "Dominio",
+    "labelPassword": "Contraseña",
+    "placeholderUsername": "tunombre",
+    "placeholderPassword": "Dejar en blanco para generar",
+    "btnCreateEmail": "Crear correo",
+    "title": "Tu dirección de correo temporal",
+    "desc": "Usa esta dirección para recibir mensajes. Caduca después de 10 horas.",
+    "loading": "Cargando...",
+    "noEmail": "Sin dirección de correo",
+    "copy": "Copiar",
+    "delete": "Eliminar",
+    "newRandom": "Nueva dirección aleatoria",
+    "customEmail": "Correo personalizado",
+    "ad": "Banner de publicidad",
+    "heading": "Bandeja de entrada",
+    "newEmailsBadge": "{count} correo{s} nuevo{s}",
+    "viewNew": "Ver nuevos",
+    "live": "En vivo",
+    "connecting": "Conectando...",
+    "paginationSummary": "{total} correos • Página {current} de {totalPages}",
+    "refresh": "Actualizar",
+    "updating": "Actualizando bandeja con nuevos correos...",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "emptyTitle": "Tu bandeja está vacía",
+    "emptySubtitle": "Los correos recibidos aparecerán aquí",
+    "dateJustNow": "Justo ahora",
+    "dateHoursAgo": "Hace {hours} horas",
+    "dateYesterday": "Ayer",
+    "dateUnknown": "Desconocido"
+  },
+  "pages": {
+    "about": {
+      "title": "Acerca de TempMail",
+      "intro": "TempMail ofrece direcciones de correo temporales seguras y anónimas para pruebas, verificación y privacidad.",
+      "sections": [
+        { "heading": "Nuestra misión", "body": "Ayudamos a desarrolladores, equipos de QA y usuarios preocupados por la privacidad a trabajar de forma segura sin exponer sus bandejas personales." },
+        { "heading": "Cómo funciona", "body": "Genera una dirección desechable al instante, recibe mensajes en tiempo real y descártala cuando termines." }
+      ]
+    },
+    "privacy": {
+      "title": "Política de Privacidad",
+      "intro": "Tu privacidad es importante. Esta política explica qué recopilamos y por qué.",
+      "sections": [
+        { "heading": "Datos que almacenamos", "body": "Almacenamos el metadato mínimo necesario para operar el servicio. Los correos temporales se eliminan tras su ciclo de vida." },
+        { "heading": "Cookies", "body": "Usamos cookies esenciales para la seguridad de sesión y analítica para mejorar el producto." }
+      ]
+    },
+    "terms": {
+      "title": "Términos de Servicio",
+      "intro": "Al usar TempMail aceptas estos términos.",
+      "sections": [
+        { "heading": "Uso aceptable", "body": "No uses el servicio para spam, fraude o actividades ilegales. Podemos limitar o bloquear usos abusivos." },
+        { "heading": "Disponibilidad", "body": "El servicio se ofrece tal cual, sin garantías. Podemos cambiar o descontinuar funciones en cualquier momento." }
+      ]
+    },
+    "contact": {
+      "title": "Contacto",
+      "intro": "¿Tienes preguntas o sugerencias? Nos encantará saber de ti.",
+      "sections": [
+        { "heading": "Correo", "body": "Escríbenos a support@example.com." },
+        { "heading": "GitHub", "body": "Abre un issue o una solicitud de función en nuestro repositorio." }
+      ]
+    }
+  }
+}

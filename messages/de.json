@@ -1,0 +1,181 @@
+{
+  "app": {
+    "title": "TempMail"
+  },
+  "hero": {
+    "heading": "Temporärer E‑Mail‑Dienst"
+  },
+  "cta": {
+    "start": "Kostenlosen temporären E‑Mail‑Dienst nutzen"
+  },
+  "seo": {
+    "title": "Temporärer E-Mail-Service",
+    "whatIs": "Was ist eine temporäre E-Mail?",
+    "whatIsDescription1": "Eine temporäre E-Mail ist ein Service, der es Ihnen ermöglicht, sofort Wegwerf-E-Mail-Adressen zu erstellen. Diese E-Mail-Adressen können Nachrichten empfangen, genau wie normale E-Mail-Adressen, aber sie sind temporär und werden nach einer bestimmten Zeit automatisch gelöscht.",
+    "whatIsDescription2": "Dieser Service ist perfekt für Situationen, in denen Sie eine E-Mail-Adresse für Verifizierungszwecke benötigen, aber Ihre persönliche E-Mail-Adresse nicht verwenden oder ein permanentes Konto erstellen möchten.",
+    "howToUse": "So verwenden Sie es",
+    "step1": "Generieren Sie eine temporäre E-Mail-Adresse",
+    "step1Desc": "Klicken Sie auf die Schaltfläche \"Neue zufällige Adresse\" oben",
+    "step2": "Verwenden Sie die E-Mail-Adresse",
+    "step2Desc": "Kopieren und verwenden Sie sie auf jeder Website oder jedem Service",
+    "step3": "Nachrichten empfangen",
+    "step3Desc": "Nachrichten erscheinen automatisch in Ihrem Posteingang",
+    "benefits": "Vorteile der Verwendung temporärer E-Mails",
+    "privacy": "Datenschutz",
+    "privacyDesc": "Halten Sie Ihre echte E-Mail-Adresse privat und vermeiden Sie Spam",
+    "quick": "Schnell & Einfach",
+    "quickDesc": "Keine Registrierung erforderlich, sofortige E-Mail-Generierung",
+    "safe": "Sicher & Geschützt",
+    "safeDesc": "Temporäre E-Mails werden nach der Verwendung automatisch gelöscht",
+    "perfectFor": "Perfekt für Tests und Verifizierung",
+    "perfectForDesc": "Verwenden Sie unseren temporären E-Mail-Service für Website-Tests, App-Verifizierung, Online-Umfragen oder jede Situation, in der Sie eine Wegwerf-E-Mail-Adresse benötigen. Keine persönlichen Informationen erforderlich, völlig kostenlos zu verwenden.",
+    "guideTitle": "Kostenloser Wegwerf-E-Mail-Service - Vollständiger Leitfaden",
+    "disposableTitle": "Was ist eine Wegwerf-E-Mail-Adresse?",
+    "disposableDesc": "Eine Wegwerf-E-Mail-Adresse, auch bekannt als temporäre E-Mail, Einweg-E-Mail oder gefälschte E-Mail-Adresse, ist ein Service, der Ihnen eine temporäre E-Mail-Adresse zur Verfügung stellt, die Nachrichten empfangen kann. Diese E-Mail-Adressen sind darauf ausgelegt, für einen kurzen Zeitraum verwendet und dann verworfen zu werden, was sie perfekt für den Schutz Ihrer Privatsphäre und die Vermeidung von Spam macht.",
+    "whyUse": "Warum einen temporären E-Mail-Service verwenden?",
+    "whyUseDesc": "Es gibt viele Gründe, warum Menschen temporäre E-Mail-Services verwenden. Hier sind die häufigsten Anwendungsfälle:",
+    "useCase1": "Website-Tests: Entwickler und Tester verwenden temporäre E-Mails, um Anmeldeformulare, E-Mail-Verifizierungssysteme und Benutzerregistrierungsprozesse zu testen, ohne ihren persönlichen Posteingang zu überlasten.",
+    "useCase2": "App-Verifizierung: Mobile Apps erfordern oft eine E-Mail-Verifizierung. Temporäre E-Mails ermöglichen es Ihnen, den Verifizierungsprozess abzuschließen, ohne Ihre echte E-Mail-Adresse zu verwenden.",
+    "useCase3": "Online-Umfragen: Viele Online-Umfragen erfordern eine E-Mail-Adresse. Verwenden Sie eine temporäre E-Mail, um teilzunehmen, ohne Ihre persönlichen Informationen preiszugeben.",
+    "useCase4": "Datenschutz: Halten Sie Ihre echte E-Mail-Adresse privat und vermeiden Sie unerwünschte Marketing-E-Mails, Newsletter oder Spam.",
+    "useCase5": "Einmalige Registrierungen: Für Services, die Sie nur einmal benötigen, verhindern temporäre E-Mails, dass Ihr persönlicher Posteingang mit Folge-E-Mails überflutet wird.",
+    "howWorks": "Wie unser temporärer E-Mail-Service funktioniert",
+    "howWorksDesc": "Unser kostenloser temporärer E-Mail-Service ist darauf ausgelegt, einfach und benutzerfreundlich zu sein. So funktioniert er:",
+    "workStep1": "Sofortige Generierung: Klicken Sie auf die Schaltfläche \"Neue zufällige Adresse\", um sofort eine temporäre E-Mail-Adresse zu erstellen. Unser System generiert menschenähnliche Benutzernamen in Kombination mit verfügbaren Domains.",
+    "workStep2": "Kopieren und Verwenden: Kopieren Sie Ihre temporäre E-Mail-Adresse mit einem Klick in die Zwischenablage. Verwenden Sie sie auf jeder Website, App oder jedem Service, der eine E-Mail-Verifizierung erfordert.",
+    "workStep3": "Echtzeit-Empfang: Nachrichten, die an Ihre temporäre E-Mail-Adresse gesendet werden, erscheinen in Echtzeit in Ihrem Posteingang. Sie können den vollständigen Inhalt jeder E-Mail einschließlich HTML-Formatierung anzeigen.",
+    "workStep4": "Automatische Bereinigung: Temporäre E-Mail-Adressen werden nach einer bestimmten Zeit automatisch gelöscht, um Ihre Privatsphäre zu gewährleisten und den Service sauber zu halten.",
+    "features": "Funktionen unseres kostenlosen temporären E-Mail-Services",
+    "feature1": "Keine Registrierung erforderlich",
+    "feature1Desc": "Beginnen Sie sofort mit der Nutzung unseres Services, ohne ein Konto zu erstellen oder persönliche Informationen anzugeben.",
+    "feature2": "Mehrere Domain-Optionen",
+    "feature2Desc": "Wählen Sie aus verschiedenen E-Mail-Domains, um Ihre temporäre E-Mail-Adresse zu erstellen.",
+    "feature3": "Echtzeit-E-Mail-Empfang",
+    "feature3Desc": "Empfangen Sie E-Mails sofort mit Live-Benachrichtigungen und automatischen Posteingang-Updates.",
+    "feature4": "Sicher und privat",
+    "feature4Desc": "Ihre temporären E-Mails sind sicher und werden automatisch gelöscht, um Ihre Privatsphäre zu schützen.",
+    "feature5": "Benutzerdefinierte E-Mail-Adressen",
+    "feature5Desc": "Erstellen Sie bei Bedarf benutzerdefinierte Benutzernamen für Ihre temporären E-Mail-Adressen.",
+    "feature6": "Mobilfreundlich",
+    "feature6Desc": "Unser Service funktioniert perfekt auf allen Geräten, einschließlich Smartphones und Tablets.",
+    "commonUseCases": "Häufige Anwendungsfälle für temporäre E-Mail-Adressen",
+    "commonUseCasesDesc": "Temporäre E-Mail-Adressen werden in verschiedenen Szenarien verwendet. Hier sind einige der häufigsten Anwendungen:",
+    "devUseCase": "Softwareentwicklung",
+    "devUseCaseDesc": "Testen Sie Benutzerregistrierungsabläufe, E-Mail-Verifizierungssysteme und automatisierte E-Mail-Funktionen, ohne Ihr persönliches E-Mail-Konto zu beeinträchtigen.",
+    "qaUseCase": "Qualitätssicherung",
+    "qaUseCaseDesc": "QA-Teams verwenden temporäre E-Mails, um Anwendungen in verschiedenen E-Mail-Szenarien zu testen und eine ordnungsgemäße E-Mail-Behandlung sicherzustellen.",
+    "shoppingUseCase": "Online-Shopping",
+    "shoppingUseCaseDesc": "Verwenden Sie temporäre E-Mails für einmalige Käufe, um Marketing-E-Mails und Werbeangebote von Online-Shops zu vermeiden.",
+    "socialUseCase": "Soziale Medien",
+    "socialUseCaseDesc": "Erstellen Sie Social-Media-Konten für Testzwecke oder um die Privatsphäre bei der Nutzung bestimmter Plattformen zu wahren.",
+    "security": "Sicherheits- und Datenschutzüberlegungen",
+    "securityDesc": "Während temporäre E-Mail-Services Datenschutzvorteile bieten, ist es wichtig, ihre Grenzen zu verstehen:",
+    "security1": "Temporärer Charakter: Diese E-Mail-Adressen sind darauf ausgelegt, temporär zu sein und werden nach einer Zeit der Inaktivität automatisch gelöscht.",
+    "security2": "Nicht für wichtige Kommunikation: Verwenden Sie temporäre E-Mails nicht für wichtige Kommunikation, Kontowiederherstellung oder Finanztransaktionen.",
+    "security3": "Begrenzte Speicherung: Temporäre E-Mail-Services haben typischerweise begrenzten Speicher und behalten E-Mails möglicherweise nicht für längere Zeiträume.",
+    "startToday": "Beginnen Sie heute mit unserem kostenlosen temporären E-Mail-Service",
+    "startTodayDesc1": "Unser temporärer E-Mail-Service ist völlig kostenlos zu verwenden und erfordert keine Registrierung. Generieren Sie jetzt Ihre erste Wegwerf-E-Mail-Adresse und erleben Sie die Bequemlichkeit temporärer E-Mail-Adressen für Tests, Verifizierung und Datenschutz.",
+    "startTodayDesc2": "Ob Sie ein Entwickler sind, der Anwendungen testet, ein Benutzer, der seine Privatsphäre schützt, oder jemand, der eine schnelle E-Mail-Adresse für die Verifizierung benötigt - unser Service bietet die perfekte Lösung. Probieren Sie es jetzt aus und sehen Sie, wie einfach es ist, temporäre E-Mail-Adressen zu verwenden!"
+  },
+  "footer": {
+    "description": "Sichere, anonyme temporäre E-Mail-Adressen für Ihre Privatsphäre und Ihren Schutz.",
+    "company": {
+      "title": "Unternehmen",
+      "about": "Über uns",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfService": "Nutzungsbedingungen",
+      "contact": "Kontakt"
+    },
+    "language": {
+      "title": "Sprache",
+      "selectLanguage": "Sprache auswählen"
+    },
+    "copyright": "© {year} TempMail. Alle Rechte vorbehalten."
+  },
+  "inbox": {
+    "toastNewEmailTitle": "Neue E-Mail erhalten",
+    "toastNewEmailDesc": "{subject} von {from}",
+    "unknownSender": "Unbekannter Absender",
+    "contentNone": "Kein Inhalt",
+    "toastNewEmailsAvailableTitle": "Neue E-Mails verfügbar",
+    "toastNewEmailsAvailableDesc": "Neue E-Mails sind eingetroffen. Gehen Sie zu Seite 1, um sie zu sehen.",
+    "toastErrorTitle": "Fehler",
+    "initError": "E-Mail-Dienst konnte nicht initialisiert werden. Bitte erneut versuchen.",
+    "createAccountError": "E-Mail-Konto konnte nicht erstellt werden. Bitte erneut versuchen.",
+    "inboxRefreshed": "Posteingang aktualisiert",
+    "inboxUpdated": "Ihr Posteingang wurde aktualisiert.",
+    "refreshError": "Posteingang konnte nicht aktualisiert werden. Bitte erneut versuchen.",
+    "generateError": "Neue E-Mail-Adresse konnte nicht erstellt werden. Bitte erneut versuchen.",
+    "copiedTitle": "In Zwischenablage kopiert",
+    "copiedDesc": "E-Mail-Adresse in die Zwischenablage kopiert.",
+    "addressDeletedTitle": "E-Mail-Adresse gelöscht",
+    "addressDeletedDesc": "Ihre temporäre E-Mail-Adresse wurde gelöscht und eine neue erstellt.",
+    "modalTitle": "Benutzerdefinierte E-Mail erstellen",
+    "modalDesc": "Geben Sie einen Benutzernamen ein und wählen Sie eine Domain. Sie können auch ein Passwort angeben oder wir generieren eines für Sie.",
+    "labelUsername": "Benutzername",
+    "labelDomain": "Domain",
+    "labelPassword": "Passwort",
+    "placeholderUsername": "ihrname",
+    "placeholderPassword": "Leer lassen, um zu generieren",
+    "btnCreateEmail": "E-Mail erstellen",
+    "title": "Ihre temporäre E-Mail-Adresse",
+    "desc": "Verwenden Sie diese Adresse, um Nachrichten zu erhalten. Sie läuft nach 10 Stunden ab.",
+    "loading": "Wird geladen...",
+    "noEmail": "Keine E-Mail-Adresse",
+    "copy": "Kopieren",
+    "delete": "Löschen",
+    "newRandom": "Neue zufällige Adresse",
+    "customEmail": "Benutzerdefinierte E-Mail",
+    "ad": "Werbebanner",
+    "heading": "Posteingang",
+    "newEmailsBadge": "{count} neue E-Mail{count, plural, one {} other {s}}",
+    "viewNew": "Neu anzeigen",
+    "live": "Live",
+    "connecting": "Verbindung wird hergestellt...",
+    "paginationSummary": "{total} E-Mails • Seite {current} von {totalPages}",
+    "refresh": "Aktualisieren",
+    "updating": "Posteingang wird mit neuen E-Mails aktualisiert...",
+    "prev": "Zurück",
+    "next": "Weiter",
+    "emptyTitle": "Ihr Posteingang ist leer",
+    "emptySubtitle": "Empfangene E-Mails werden hier angezeigt",
+    "dateJustNow": "Gerade eben",
+    "dateHoursAgo": "vor {hours} Stunden",
+    "dateYesterday": "Gestern",
+    "dateUnknown": "Unbekannt"
+  },
+  "pages": {
+    "about": {
+      "title": "Über TempMail",
+      "intro": "TempMail bietet sichere, anonyme temporäre E‑Mail‑Adressen für Tests, Verifizierung und Datenschutz.",
+      "sections": [
+        { "heading": "Unsere Mission", "body": "Wir helfen Entwicklern, QA‑Teams und datenschutzbewussten Nutzern, sicher zu arbeiten, ohne persönliche Postfächer offenzulegen." },
+        { "heading": "Wie es funktioniert", "body": "Erstellen Sie sofort eine Wegwerf‑Adresse, empfangen Sie Nachrichten in Echtzeit und löschen Sie sie, wenn Sie fertig sind." }
+      ]
+    },
+    "privacy": {
+      "title": "Datenschutzrichtlinie",
+      "intro": "Ihre Privatsphäre ist wichtig. Diese Richtlinie erklärt, was wir erfassen und warum.",
+      "sections": [
+        { "heading": "Daten, die wir speichern", "body": "Wir speichern minimale Metadaten, die zum Betrieb des Dienstes nötig sind. Temporäre E‑Mails werden nach ihrem Lebenszyklus gelöscht." },
+        { "heading": "Cookies", "body": "Wir verwenden notwendige Cookies für Sitzungssicherheit und Analysen zur Produktverbesserung." }
+      ]
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen",
+      "intro": "Mit der Nutzung von TempMail stimmen Sie diesen Bedingungen zu.",
+      "sections": [
+        { "heading": "Zulässige Nutzung", "body": "Verwenden Sie den Dienst nicht für Spam, Betrug oder illegale Aktivitäten. Wir können missbräuchliche Nutzung einschränken oder blockieren." },
+        { "heading": "Verfügbarkeit", "body": "Der Dienst wird ohne Gewähr bereitgestellt. Funktionen können jederzeit geändert oder eingestellt werden." }
+      ]
+    },
+    "contact": {
+      "title": "Kontakt",
+      "intro": "Haben Sie Fragen oder Feedback? Wir freuen uns darauf.",
+      "sections": [
+        { "heading": "E‑Mail", "body": "Kontaktieren Sie uns unter support@example.com." },
+        { "heading": "GitHub", "body": "Eröffnen Sie ein Issue oder Feature‑Request in unserem Repository." }
+      ]
+    }
+  }
+}
