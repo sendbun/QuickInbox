@@ -29,6 +29,7 @@ import {
   deleteEmailAccount
 } from "@/lib/email-service"
 import { EmailNotificationClient } from "@/lib/email-notification-client"
+import GoogleAdsense from "@/plugin/adsense/google-adsense"
 import { useTranslations } from 'next-intl'
 
 interface Email {
@@ -50,6 +51,7 @@ export function Inbox() {
   const [customEmailOpen, setCustomEmailOpen] = useState(false)
   const [domains, setDomains] = useState<Domain[]>([])
   const [currentAccount, setCurrentAccount] = useState<EmailAccount | null>(null)
+  const [rawMessagesById, setRawMessagesById] = useState<Record<string, EmailMessage>>({})
   const [pagination, setPagination] = useState<EmailPagination>({
     current_page: 1,
     total_pages: 1,
@@ -292,6 +294,12 @@ export function Inbox() {
         setEmails(convertedEmails)
         setPagination(emailData.pagination)
         setCurrentPage(page)
+        // Build raw message map for modal display
+        const map: Record<string, EmailMessage> = {}
+        for (const msg of emailData.messages) {
+          map[msg.id] = msg
+        }
+        setRawMessagesById(map)
         console.log('Emails updated successfully')
       } else {
         console.log('No email data received, setting empty list')
@@ -682,8 +690,18 @@ export function Inbox() {
         </CardContent>
       </Card>
 
-      <div className="w-full h-24 bg-gray-100 dark:bg-gray-800 rounded-md flex items-center justify-center border border-gray-200 dark:border-gray-700 my-6">
-        <p className="text-gray-500 dark:text-gray-400 text-sm">{t('inbox.ad')}</p>
+      <div className="w-full my-6">
+        {process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_CLIENT_ID && process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_SLOT_1 ? (
+          <GoogleAdsense
+            client={process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_CLIENT_ID as string}
+            slot={process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_SLOT_1 as string}
+            type="auto"
+          />
+        ) : (
+          <div className="h-24 bg-gray-100 dark:bg-gray-800 rounded-md flex items-center justify-center border border-gray-200 dark:border-gray-700">
+            <p className="text-gray-500 dark:text-gray-400 text-sm">{t('inbox.ad')}</p>
+          </div>
+        )}
       </div>
 
       <div className="flex items-center justify-between">
@@ -752,6 +770,7 @@ export function Inbox() {
           <EmailList 
             emails={emails} 
             currentAccount={currentAccount} 
+            rawMessagesById={rawMessagesById}
             onEmailDeleted={() => loadEmails(currentPage)} 
           />
           

@@ -90,7 +90,7 @@ export function Footer() {
             <Globe className="w-5 h-5 mr-2 text-gray-900" />
             <h4 className="font-semibold text-gray-900">{t('footer.language.title')}</h4>
           </div>
-          <Select onValueChange={handleLanguageChange}>
+          <Select value={getLocale()} onValueChange={handleLanguageChange}>
             <SelectTrigger className="w-48 border-gray-300">
               <SelectValue placeholder={t('footer.language.selectLanguage')} />
             </SelectTrigger>

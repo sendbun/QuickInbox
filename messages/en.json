@@ -178,4 +178,12 @@
       ]
     }
   }
+  ,
+  "modal": {
+    "from": "From",
+    "date": "Date",
+    "delete": "Delete",
+    "download": "Download",
+    "print": "Print"
+  }
 }
